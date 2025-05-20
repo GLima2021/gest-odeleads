@@ -1,4 +1,4 @@
-# 🎯 Sistema de Rastreamento de Cliques - Tayana Tadão
+# 🎯 Sistema de Rastreamento de Cliques
 
 Este projeto é um painel administrativo desenvolvido em **PHP** e **MySQL** para registrar e visualizar cliques em botões de redirecionamento do site **SITE PROPRIEDADE PARTICULAR**.
 
