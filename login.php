@@ -2,8 +2,8 @@
 session_start();
 
 // Credenciais fixas
-$usuario_autorizado = "tayantadadmin@email.com";
-$senha_autorizada = "Pinexpress123";
+$usuario_autorizado = "USUARIO";
+$senha_autorizada = "SENHA";
 
 // Se o formulário foi enviado
 if ($_SERVER["REQUEST_METHOD"] === "POST") {
